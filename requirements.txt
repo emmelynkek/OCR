@@ -1,0 +1,10 @@
+opencv-python==4.5.3.56
+pillow
+pytesseract
+imutils
+numpy
+pybraille
+gtts
+adafruit-circuitpython-motorkit
+picamera
+gpiozero
